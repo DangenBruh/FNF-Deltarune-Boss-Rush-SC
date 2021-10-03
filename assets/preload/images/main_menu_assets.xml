@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="main_menu_assets.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="deltarune basic0000" x="2" y="2" width="221" height="31"/>
+	<SubTexture name="donate basic0000" x="228" y="2" width="122" height="30"/>
+	<SubTexture name="end basic0000" x="355" y="2" width="72" height="31"/>
+	<SubTexture name="freeplay basic0000" x="2" y="38" width="595" height="123"/>
+	<SubTexture name="options basic0000" x="2" y="166" width="595" height="123"/>
+	<SubTexture name="story mode basic0000" x="2" y="294" width="595" height="123"/>
+	<SubTexture name="twitter basic0000" x="2" y="422" width="171" height="35"/>
+</TextureAtlas>
